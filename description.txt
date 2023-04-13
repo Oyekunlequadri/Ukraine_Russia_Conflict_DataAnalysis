@@ -1,0 +1,19 @@
+This dataset contains information regarding the ongoing Ukrainian and Russian conflict data dating back to 2014. 
+There are two CSV files in this dataset. 
+One contains data from 2014 to 2021, the other contains data from 2018 to 2023. 
+Use your data science skills to better understand a conflict that is happening in real time! 
+This is an excellent project for those looking to better understand global events or who are looking 
+to work on a dataset with greater implications and a larger impact than a cat vs. dog classifier. 
+
+About the Conflict
+The Ukraine-Russia conflict began in 2014 when Russia annexed Crimea from Ukraine, but the history of these two nations 
+goes back much further than 2014. Since then, pro-Russian separatists have been fighting Ukrainian government forces in the
+Donbas region of Eastern Ukraine. 
+The conflict has resulted in thousands of deaths and the displacement of over 1.5 million people.
+In 2022, the conflict escalated again, with Russia mobilizing its military near the Ukrainian border and launching 
+a large-scale invasion in February. Ukrainian forces have been engaged in heavy fighting with Russian troops and separatist militias, 
+resulting in a humanitarian crisis and significant civilian casualties.
+
+The international community has condemned Russia's actions and imposed economic sanctions on the country. 
+Diplomatic efforts to resolve the conflict, including negotiations and ceasefires, have not been successful so far. 
+The conflict remains ongoing and the situation is highly volatile.
